@@ -11,6 +11,7 @@ _ = gettext.gettext
 en = gettext.translation("base", localedir="locales", languages=["en"])
 fr = gettext.translation("base", localedir="locales", languages=["fr"])
 ru = gettext.translation("base", localedir="locales", languages=["ru"])
+ar = gettext.translation("base", localedir="locales", languages=["ar"])
 en.install()
 
 locales = {
@@ -18,6 +19,8 @@ locales = {
     config.FR_CHANNEL_ID: fr,
     # RU
     config.RU_CHANNEL_ID: ru,
+    # AR
+    config.AR_CHANNEL_ID: ar,
 }
 
 

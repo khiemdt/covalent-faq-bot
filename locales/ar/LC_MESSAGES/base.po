@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-24 08:40+0300\n"
+"POT-Creation-Date: 2021-05-25 10:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Hadika <ah.developer101@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,275 +15,275 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: extensions/faq.py:42
+#: extensions/faq.py:45
 msgid "HELP_DESCRIPTION"
 msgstr "فيما يلي لائحة بالأوامر المتوفرة"
 
-#: extensions/faq.py:42
+#: extensions/faq.py:45
 msgid "HELP_TITLE"
 msgstr "دليل الاستخدام لبوت الأسئلة المتكررة الخاص ب Covalent"
 
-#: extensions/faq.py:44
+#: extensions/faq.py:47
 msgid "HELP_COVALENT"
 msgstr "معلومات رئيسية عن المشروع"
 
-#: extensions/faq.py:45
+#: extensions/faq.py:48
 msgid "HELP_TASKS"
 msgstr "معلومات عن المهمات و لماذا يجب إتمامها؟"
 
-#: extensions/faq.py:46
+#: extensions/faq.py:49
 msgid "HELP_REWARDS"
 msgstr "ما هي المكافآت و كيف يتم ربحها"
 
-#: extensions/faq.py:47
+#: extensions/faq.py:50
 msgid "HELP_NAVIGATION"
 msgstr "مساعدة في تصفح السيرفر مع لائحة بالقنوات الرئيسية"
 
-#: extensions/faq.py:48
+#: extensions/faq.py:51
 msgid "HELP_PINNED"
-msgstr ""
-"تلميح للمبتدئين لكيفية إيجاد الرسائل المثبتة ( صورة للشاشة )"
+msgstr "تلميح للمبتدئين لكيفية إيجاد الرسائل المثبتة ( صورة للشاشة )"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:58
 msgid "COVALENT_DESCRIPTION"
 msgstr ""
 "توفر Covalent واجهة تطوير تطبيقات موحدة للوصول لملايين نقاط بيانات البلوكتشين"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:58
 msgid "COVALENT_TITLE"
 msgstr "Covalent"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:60
 msgid "COVALENT_FIELD1_NAME"
 msgstr "عن المشروع"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:60
 msgid "COVALENT_FIELD1_VALUE"
 msgstr ""
 "يتألف فريقنا من عدد من المخضرمين في قواعد البيانات و النظم الموزعة.\n"
-"تم تمويل المشروع من قبل عدد من المستثمرين الرواد الذين لديهم"
-" عقد من الخبرات في مجال بناء و توسيع شركات التقنية.\n"
+"تم تمويل المشروع من قبل عدد من المستثمرين الرواد الذين لديهم عقد من الخبرات "
+"في مجال بناء و توسيع شركات التقنية.\n"
 "\n"
-"نقوم في Covalent بحل فجوة توفر البيانات  التي تعيق شبكة الإيثيريوم و نوفر بيانات و تحليلات للسلاسل "
-"( حاليا الإيثيريوم) و ندعم حاليا بروتوكولات DeFi الأهم : Maker - Uniswap - Compound - dYdX و غيرها\n"
-"حن نؤمن بمقولة أن DeFi تمثل الجيل الثاني من التقنيات المالية التي ستزيح الوسطاء جانبا\n"
+"نقوم في Covalent بحل فجوة توفر البيانات  التي تعيق شبكة الإيثيريوم و نوفر "
+"بيانات و تحليلات للسلاسل ( حاليا الإيثيريوم) و ندعم حاليا بروتوكولات DeFi "
+"الأهم : Maker - Uniswap - Compound - dYdX و غيرها\n"
+"حن نؤمن بمقولة أن DeFi تمثل الجيل الثاني من التقنيات المالية التي ستزيح "
+"الوسطاء جانبا\n"
 "\n"
 "هدفنا هو بناء محرك فهرسة و بحث و جعله قريب من المستخدم النهائي"
 
-#: extensions/faq.py:64
+#: extensions/faq.py:67
 msgid "TASKS_DESCRIPTION"
 msgstr "الأسئلة الشائعة عن المهمات"
 
-#: extensions/faq.py:64
+#: extensions/faq.py:67
 msgid "TASKS_TITLE"
 msgstr "المهمات"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:69
 msgid "TASKS_FIELD1_NAME"
 msgstr ""
 "كيف يمكنني اقتراح أو الحصول على تفويض بالمهمات الغير مدرجة على الموقع الرسمي؟"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:69
 msgid "TASKS_FIELD1_VALUE"
 msgstr ""
 "إذا كان لديك اقتراح بخصوص مهمة تفضل بوضعها في قسم 'الأفكار تحت المراجعة'  "
 "على تطبيق Click-up. و سيقوم فريق Covalent بالرد و إعلامك بالقبول أو الرفض. "
 "أيضا نرجو أن تلخص تحت أي تصنيف تقع مهمتك مثلا قسم منشئي المحتوى."
 
-#: extensions/faq.py:67
+#: extensions/faq.py:70
 msgid "TASKS_FIELD2_NAME"
 msgstr "كيف تتحدد قيمة الجائزة؟"
 
-#: extensions/faq.py:67
+#: extensions/faq.py:70
 msgid "TASKS_FIELD2_VALUE"
 msgstr ""
 "كل عمل يتم تقديمه سيحكم عليه بناء على عدة عوامل التي تختلف من تصنيف لآخر."
 
-#: extensions/faq.py:68
+#: extensions/faq.py:71
 msgid "TASKS_FIELD3_NAME"
 msgstr "ما هي الوصفات؟"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:71
 msgid "TASKS_FIELD3_VALUE"
 msgstr ""
-"مكافآت الخيمائيين يشار لها بالوصفات و يرمز لها بالرمز :test_tube: و يمثل CQT واحدة في شبكة Covalent."
+"مكافآت الخيمائيين يشار لها بالوصفات و يرمز لها بالرمز :test_tube: و يمثل CQT "
+"واحدة في شبكة Covalent."
 
-#: extensions/faq.py:69
+#: extensions/faq.py:72
 msgid "TASKS_FIELD4_NAME"
 msgstr "هل يمكنني إكمال المهمة بالاشتراك مع خيميائي آخر؟"
 
-#: extensions/faq.py:69
+#: extensions/faq.py:72
 msgid "TASKS_FIELD4_VALUE"
 msgstr ""
-"بالتأكيد. تقريبا كل المهمات المقدمة يمكن إنجازها بشكل مشترك، "
-"و لذلك لا يتم تقسيم المهمات إلى فردية أو مشتركة في كل موسم. "
-"و كيفية إنجازكم للمهمات يعود لكم بشكل مطلق ضمن المنطق العام. "
-"عض المهمات البسيطة من غير المنطقي تقسيمها لمهمات أبسط.
-في حال رغبتك بإنجاز مهمة مع خيميائي آخر نحن نشجعك على طرح ذلك على المجموعة."
+"بالتأكيد. تقريبا كل المهمات المقدمة يمكن إنجازها بشكل مشترك، و لذلك لا يتم "
+"تقسيم المهمات إلى فردية أو مشتركة في كل موسم. و كيفية إنجازكم للمهمات يعود "
+"لكم بشكل مطلق ضمن المنطق العام. عض المهمات البسيطة من غير المنطقي تقسيمها "
+"لمهمات أبسط.\n"
+"في حال رغبتك بإنجاز مهمة مع خيميائي آخر نحن نشجعك على طرح ذلك على المجموعة."
 
-#: extensions/faq.py:70
+#: extensions/faq.py:73
 msgid "TASKS_FIELD5_NAME"
 msgstr "كيف يتم توزيع الجائزة في حال العمل الجماعي؟"
 
-#: extensions/faq.py:70
+#: extensions/faq.py:73
 msgid "TASKS_FIELD5_VALUE"
 msgstr ""
-"بشكل افتراضي توزع الجائزة على عدد المشاركين بالمهمة.  "
-"على سبيل المثال ثلاثة خيميائيين يعملون على مهمة قيمتها 5000 :test_tube:  "
-"فستكون قيمة الجائزة لكل منهم 1666:test_tube: و هو ناتج توزيع 5000 على 3. "
-".\n"
-"لكن إن رغبت المجموعة التي أنجزت المهمة و بشكل مشترك أن "
-"ا توزع الجائزة بشكل متساو فليتم التواصل مع المجلس الذي سيسمح بذلك فقط  "
-" في حال موافقة المجموعة بشكل كامل على كيفية توزيع الجائزة."
+"بشكل افتراضي توزع الجائزة على عدد المشاركين بالمهمة.  على سبيل المثال ثلاثة "
+"خيميائيين يعملون على مهمة قيمتها 5000 :test_tube:  فستكون قيمة الجائزة لكل "
+"منهم 1666:test_tube: و هو ناتج توزيع 5000 على 3. .\n"
+"لكن إن رغبت المجموعة التي أنجزت المهمة و بشكل مشترك أن ا توزع الجائزة بشكل "
+"متساو فليتم التواصل مع المجلس الذي سيسمح بذلك فقط   في حال موافقة المجموعة "
+"بشكل كامل على كيفية توزيع الجائزة."
 
-#: extensions/faq.py:71
+#: extensions/faq.py:74
 msgid "TASKS_FIELD6_NAME"
 msgstr ""
 "خيميائي آخر يعمل على أو أتم مهمة معينة فهل يمكنني العمل على تلك المهمة أيضا ؟"
 
-#: extensions/faq.py:71
+#: extensions/faq.py:74
 msgid "TASKS_FIELD6_VALUE"
 msgstr ""
-"بالطبع. نحن نشجع على الفردية في كتاباتكم لكن اقتباس عمل خيميائي آخر ليس مسموحا. .\n"
-"و أيضا لا يسمح بالتكرار في الترجمة و بعض أعمال البرمجة الإضافية. "
-"في حين أنه يمكن مثلا تكرار أدلة التطوير لكن مهمات محددة مثل صفحة وب للمجتمع أو التطبيق لا يمكن تكرارها. "
+"بالطبع. نحن نشجع على الفردية في كتاباتكم لكن اقتباس عمل خيميائي آخر ليس "
+"مسموحا. .\n"
+"و أيضا لا يسمح بالتكرار في الترجمة و بعض أعمال البرمجة الإضافية. في حين أنه "
+"يمكن مثلا تكرار أدلة التطوير لكن مهمات محددة مثل صفحة وب للمجتمع أو التطبيق "
+"لا يمكن تكرارها. "
 
-#: extensions/faq.py:72
+#: extensions/faq.py:75
 msgid "TASKS_FIELD7_NAME"
 msgstr ""
-"هل يمكن إرسال الأعمال المتعلقة بحدث معين ( مثل المليون محفظة أو الزنزانات و البيانات) كإكمال لمهمة؟"
+"هل يمكن إرسال الأعمال المتعلقة بحدث معين ( مثل المليون محفظة أو الزنزانات و "
+"البيانات) كإكمال لمهمة؟"
 
-#: extensions/faq.py:72
+#: extensions/faq.py:75
 msgid "TASKS_FIELD7_VALUE"
 msgstr ""
-"سيتم التعامل مع كل حالة على حدى.  "
-"ي حال أخذ عملك مقدارا كبيرا من الوقت  و لم تملك فرصة لإنجاز مهمات الخيميائي ففي تلك الحالة لا بأس. "
-"\n"
-"و نشجعك على التواصل مع المجلس و تقديم العمل الذي "
-"أنجزته لأجل الحدث و سنقوم بمراجعته و إخبارك بالنتيجة"
+"سيتم التعامل مع كل حالة على حدى.  ي حال أخذ عملك مقدارا كبيرا من الوقت  و لم "
+"تملك فرصة لإنجاز مهمات الخيميائي ففي تلك الحالة لا بأس. \n"
+"و نشجعك على التواصل مع المجلس و تقديم العمل الذي أنجزته لأجل الحدث و سنقوم "
+"بمراجعته و إخبارك بالنتيجة"
 
-#: extensions/faq.py:73
+#: extensions/faq.py:76
 msgid "TASKS_FIELD8_NAME"
 msgstr "أين يمكنني إرسال أعمالي؟"
 
-#: extensions/faq.py:73
+#: extensions/faq.py:76
 msgid "TASKS_FIELD8_VALUE"
 msgstr ""
-"سيتم تزويدكم برابط Typeform لكل موسم.  "
-"و هذا الرابط سيوضع في رسالة إعلان الموسم الجديد.  "
-"هذه الرسالة ستنشر في قناة  Covalent Alchemists #:mega:"
+"سيتم تزويدكم برابط Typeform لكل موسم.  و هذا الرابط سيوضع في رسالة إعلان "
+"الموسم الجديد.  هذه الرسالة ستنشر في قناة  Covalent Alchemists #:mega:"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:83
 msgid "REWARDS_DESCRIPTION"
 msgstr "أسئلة شائعة عن المكافآت"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:83
 msgid "REWARDS_TITLE"
 msgstr "المكافآت"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:85
 msgid "REWARDS_FIELD1_NAME"
 msgstr "متى سأحصل على مكافآتي :test_tube: ؟"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:85
 msgid "REWARDS_FIELD1_VALUE"
 msgstr ""
-"قبل أطلاق ال token سنحفظ سجلا لمقدار ما حققه "
-"كل خيميائي و سيتم دفعها بشكل مجمع في أول فترة دفع. "
-"الجوائز ستنوزع نهاية كل شهر (موسم)"
+"قبل أطلاق ال token سنحفظ سجلا لمقدار ما حققه كل خيميائي و سيتم دفعها بشكل "
+"مجمع في أول فترة دفع. الجوائز ستنوزع نهاية كل شهر (موسم)"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:86
 msgid "REWARDS_FIELD2_NAME"
 msgstr "لماذا يوجد حد للكمية التي يمكنني تحقيقها من :test_tube: في كل موسم ؟"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:86
 msgid "REWARDS_FIELD2_VALUE"
 msgstr ""
-"هناك ميزانية محددة من :test_tube: قبل كل موسم لذلك علينا "
-"تقييدها لمنع الصرف الزائد من الوصفات :test_tube:   "
-" ( الحد الإجمالي لكل موسم مع الحد الإجمالي للموسم التالي)\n"
-"هناك أيضا حد فلادي قريب من وسطي الوصفات ( أو أعلى بنسبة عشرين بالمئة)  "
-"يمكن للخيميائي السفير اكتسابه في حال شارك الجميع بشكل متساو في الموسم. "
-"\n"
-"نحن نشجع كل خيميائي على إنجاز مهمات كافية للوصول للحد المخصص له.  "
-"ملاحظة عندما تصل للحد الأعلى لا يمكنك ربح المزيد من الوصفات :test_tube: "
-"في ذلك الموسم إلا في حال استثناء من قبل المجلس. "
-"لكن هذا الحد سيتم تصفيره مع بداية كل موسم.  "
-"حالما يتم امتلاء الحد الأقصى لإجمالي الجوائز للموسم لن يكون هناك   "
-"المزيد من المهمات التي سيتم مكافأتها بوصفات :test_tube: للسفراء الخيميائيين حتى الموسم التالي . "
-" لكننا لا نتوقع ذلك أن يحدث بشكل متكرر و أن لا يكون هناك فجوة بين المواسم."
+"هناك ميزانية محددة من :test_tube: قبل كل موسم لذلك علينا تقييدها لمنع الصرف "
+"الزائد من الوصفات :test_tube:    ( الحد الإجمالي لكل موسم مع الحد الإجمالي "
+"للموسم التالي)\n"
+"هناك أيضا حد فلادي قريب من وسطي الوصفات ( أو أعلى بنسبة عشرين بالمئة)  يمكن "
+"للخيميائي السفير اكتسابه في حال شارك الجميع بشكل متساو في الموسم. \n"
+"نحن نشجع كل خيميائي على إنجاز مهمات كافية للوصول للحد المخصص له.  ملاحظة "
+"عندما تصل للحد الأعلى لا يمكنك ربح المزيد من الوصفات :test_tube: في ذلك "
+"الموسم إلا في حال استثناء من قبل المجلس. لكن هذا الحد سيتم تصفيره مع بداية "
+"كل موسم.  حالما يتم امتلاء الحد الأقصى لإجمالي الجوائز للموسم لن يكون هناك   "
+"المزيد من المهمات التي سيتم مكافأتها بوصفات :test_tube: للسفراء الخيميائيين "
+"حتى الموسم التالي .  لكننا لا نتوقع ذلك أن يحدث بشكل متكرر و أن لا يكون هناك "
+"فجوة بين المواسم."
 
-#: extensions/faq.py:84
+#: extensions/faq.py:87
 msgid "REWARDS_FIELD3_NAME"
 msgstr "بعض المهمات جائزتها تتجاوز الحد الأقصى كيف ذلك؟"
 
-#: extensions/faq.py:84
+#: extensions/faq.py:87
 msgid "REWARDS_FIELD3_VALUE"
 msgstr ""
-"هذه المهمات مصممة لتشجيع العمل الجماعي . العديد من المهمات بمستوى المحترف master تتطلب تعاونا نظرا لصعوبتها للفرد.\n"
-"مثلا مهمة بمستوى محترف جائزتها 6000 :test_tube: لكن الحد الأقصى "
-"لموسم من أسبوعين هو 3000 في هذه الحالة يمكن لفريق مكون من شخصين "
-"تقديمها بشكل مشترك و الحصول على جائزة 3000 :test_tube: لكل منهما.\n"
-"إضافة لذلك في بعض المهمات لمستوى Master يمكن "
-" للمجلس أن يتنازل عن الحد الأعلى ( اقتراض من الحد الأقصى لمدة شهر) "
+"هذه المهمات مصممة لتشجيع العمل الجماعي . العديد من المهمات بمستوى المحترف "
+"master تتطلب تعاونا نظرا لصعوبتها للفرد.\n"
+"مثلا مهمة بمستوى محترف جائزتها 6000 :test_tube: لكن الحد الأقصى لموسم من "
+"أسبوعين هو 3000 في هذه الحالة يمكن لفريق مكون من شخصين تقديمها بشكل مشترك و "
+"الحصول على جائزة 3000 :test_tube: لكل منهما.\n"
+"إضافة لذلك في بعض المهمات لمستوى Master يمكن  للمجلس أن يتنازل عن الحد "
+"الأعلى ( اقتراض من الحد الأقصى لمدة شهر) "
 
-#: extensions/faq.py:85
+#: extensions/faq.py:88
 msgid "REWARDS_FIELD4_NAME"
 msgstr "أين يمكنني تتبع مكافآتي من الوصفات :test_tube: ؟"
 
-#: extensions/faq.py:85
+#: extensions/faq.py:88
 msgid "REWARDS_FIELD4_VALUE"
 msgstr ""
-"يتم حفظ ذلك عبر ورقتي عمل للسجلات. هناك سجل داخلي يصل له فقط فريق "
-" Covalent المباشر. و في نفس الوقت هناك سجل عام يعرف "
-"بلوحة خيميائيي Covalent يتم تحديثه دوريا"
-"خلال كل فترة دفع ، سيتم إطلاقه قريبا."
+"يتم حفظ ذلك عبر ورقتي عمل للسجلات. هناك سجل داخلي يصل له فقط فريق  Covalent "
+"المباشر. و في نفس الوقت هناك سجل عام يعرف بلوحة خيميائيي Covalent يتم تحديثه "
+"دورياخلال كل فترة دفع ، سيتم إطلاقه قريبا."
 
-#: extensions/faq.py:86
+#: extensions/faq.py:89
 msgid "REWARDS_FIELD5_NAME"
 msgstr "ماذا لو رغبت بتغيير عنوان محفظتي؟"
 
-#: extensions/faq.py:86
+#: extensions/faq.py:89
 msgid "REWARDS_FIELD5_VALUE"
 msgstr "الرجاء التواصل مع المجلس لتنجز هذه العملية."
 
-#: extensions/faq.py:93
+#: extensions/faq.py:96
 msgid "NAVIGATION_TITLE"
 msgstr "تصفح سيرفر ديسكورد الخاص ب Covalent"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:96
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "تعليمات حول كيفية تصفح السيرفر"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:98
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "القنوات الرئيسية"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:98
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#:speech_balloon:general - نقاشات عامة عن المشروع باللغة الإنكليزية\n"
 "#:calendar:events - لائحة بالأحداث المهمة"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:99
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "محادثات المحتوى"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:99
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#:frog:memes - أرسل الميمز إلى هذه القناة و لا ترسل إلا الميمز عالية الجودة\n"
 "#:dog:pets - حيوانات أليفة\n"
 "#:pizza:foodies - أطعمة و غير ذلك"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:100
 msgid "NAVIGATION_FIELD3_NAME"
 msgstr "TODO"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:100
 msgid "NAVIGATION_FIELD3_VALUE"
 msgstr "TODO"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:109
 msgid "Pinned Messages"
 msgstr "الرسائل المثبتة"
