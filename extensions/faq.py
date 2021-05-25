@@ -9,16 +9,10 @@ from constants import GREEN
 
 _ = gettext.gettext
 en = gettext.translation("base", localedir="locales", languages=["en"])
-fr = gettext.translation("base", localedir="locales", languages=["fr"])
-ru = gettext.translation("base", localedir="locales", languages=["ru"])
 ar = gettext.translation("base", localedir="locales", languages=["ar"])
 en.install()
 
 locales = {
-    # FR
-    config.FR_CHANNEL_ID: fr,
-    # RU
-    config.RU_CHANNEL_ID: ru,
     # AR
     config.AR_CHANNEL_ID: ar,
 }
@@ -97,7 +91,6 @@ async def navigation(ctx, _):
     widget.set_thumbnail(url="https://covalenthq.s3.eu-north-1.amazonaws.com/Covalent_Logomark_DeepBlue.png")
     widget.add_field(name=_("NAVIGATION_FIELD1_NAME"), value=_("NAVIGATION_FIELD1_VALUE"), inline=False)
     widget.add_field(name=_("NAVIGATION_FIELD2_NAME"), value=_("NAVIGATION_FIELD2_VALUE"), inline=False)
-    widget.add_field(name=_("NAVIGATION_FIELD3_NAME"), value=_("NAVIGATION_FIELD3_VALUE"), inline=False)
     await ctx.send(embed=widget)
 
 
