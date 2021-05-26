@@ -28,7 +28,9 @@ def resolve_language(function):
             locale = en
         locale.install()
         _ = locale.gettext
-        return await function(ctx, _)
+        # ensure that bot is allowed to send messages in channel
+        if ctx.channel.id in config.ALLOWED_CHANNELS_IDS:
+            return await function(ctx, _)
 
     return wrapper
 
