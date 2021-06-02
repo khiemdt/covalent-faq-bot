@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-05-25 20:20+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: DOAN THE KHIEM <DOANTHEKHIEM@GMAIL.COM>\n"
+"Language-Team: VIETNAMESE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: extensions/faq.py:39
+msgid "HELP_DESCRIPTION"
+msgstr "Dưới đây là danh sách các lệnh có sẵn"
+
+#: extensions/faq.py:39
+msgid "HELP_TITLE"
+msgstr "Trợ giúp với Bot Covalent-FAQ"
+
+#: extensions/faq.py:41
+msgid "HELP_COVALENT"
+msgstr "Thông tin cơ bản về dự án"
+
+#: extensions/faq.py:42
+msgid "HELP_TASKS"
+msgstr "Tại sao tôi cần hoàn thành các nhiệm vụ?"
+
+#: extensions/faq.py:43
+msgid "HELP_REWARDS"
+msgstr "Phần thưởng là gì và cách kiếm chúng?"
+
+#: extensions/faq.py:44
+msgid "HELP_NAVIGATION"
+msgstr "Hỗ trợ điều hướng máy chủ, danh sách các kênh chính"
+
+#: extensions/faq.py:45
+msgid "HELP_PINNED"
+msgstr ""
+"Một gợi ý cho người mới về cách tìm tin nhắn đã được ghim trong Discord (ảnh chụp màn hình)"
+
+#: extensions/faq.py:52
+msgid "COVALENT_DESCRIPTION"
+msgstr ""
+"Covalent cung cấp một API thống nhất mang lại khả năng hiển thị cho hàng tỷ "
+"điểm dữ liệu blockchain."
+
+#: extensions/faq.py:52
+msgid "COVALENT_TITLE"
+msgstr "Covalent"
+
+#: extensions/faq.py:54
+msgid "COVALENT_FIELD1_NAME"
+msgstr "Thông tin dự án"
+
+#: extensions/faq.py:54
+msgid "COVALENT_FIELD1_VALUE"
+msgstr ""
+"Nhóm của chúng tôi bao gồm những người kỳ cựu trong ngành trong cơ sở dữ liệu và phân phối"
+"hệ thống.\n"
+"Covalent được tài trợ bởi các nhà đầu tư mạo hiểm hàng đầu, với hơn mười năm"
+"kinh nghiệm trong việc xây dựng và mở rộng quy mô các công ty công nghệ.\n"
+"\n"
+"Covalent đang giải quyết vấn đề khoảng cách về tính khả dụng của dữ liệu  "
+" chỗi khối Ethereum. Chúng tôi cung cấp dữ liệu và phân tích trên chuỗi cho các blockchain "
+(hiện tại là Ethereum) và ngay bây giờ,\n"
+"chúng tôi đang hỗ trợ các giao thức hàng đầu DeFi (tài chính phi tập trung) trong không gian"
+"-- Maker, Uniswap, Compound, dYdX, tới một vài cái tên.\n"
+"Chúng tôi ủng hộ câu chuyện, 'DeFi là Fintech 2.0' và nó sẽ loại bỏ "
+"các bên trung gian.\n"
+"\n"
+"Mục tiêu của chúng tôi là xây dựng một công cụ tìm kiếm và làm cho nó phù hợp với "
+"người dùng cuối."
+
+#: extensions/faq.py:61
+msgid "TASKS_DESCRIPTION"
+msgstr "Câu hỏi thường gặp về nhiệm vụ"
+
+#: extensions/faq.py:61
+msgid "TASKS_TITLE"
+msgstr "Các nhiệm vụ"
+
+#: extensions/faq.py:63
+msgid "TASKS_FIELD1_NAME"
+msgstr ""
+"Làm cách nào để tôi có thể đề xuất / nhận ủy quyền cho các nhiệm vụ không được liệt kê trong "
+"danh sách chính thức?"
+
+#: extensions/faq.py:63
+msgid "TASKS_FIELD1_VALUE"
+msgstr ""
+"Nếu bạn có một nhiệm vụ được đề xuất, vui lòng gửi nó vào phần 'Ý tưởng đang được xem xét'"
+"nhấp chuột lên. Nhóm Covalent sẽ phản hồi và cho bạn biết nếu"
+"nó được chấp thuận hay bị từ chối. Ngoài ra, vui lòng nêu ra chuyên "
+" môn mà nhiệm vụ đề xuất tức là, Người tạo nội dung."
+
+#: extensions/faq.py:64
+msgid "TASKS_FIELD2_NAME"
+msgstr "Số tiền thưởng được xác định như thế nào?"
+
+#: extensions/faq.py:64
+msgid "TASKS_FIELD2_VALUE"
+msgstr ""
+"Mỗi tác phẩm dự thi sẽ được đánh giá tương ứng dựa trên các tiêu chí đã "
+"đặt ra. Các tiêu chí nêu ra khác nhau tùy theo chuyên môn."
+
+#: extensions/faq.py:65
+msgid "TASKS_FIELD3_NAME"
+msgstr "Potions là gì?"
+
+#: extensions/faq.py:65
+msgid "TASKS_FIELD3_VALUE"
+msgstr ""
+"Phần thưởng của Alchemist được định giá bằng Potions tương đương với 🧪. "
+"1 🧪 CQT trong Covalent Network.."
+
+#: extensions/faq.py:66
+msgid "TASKS_FIELD4_NAME"
+msgstr "Tôi có thể hoàn thành một nhiệm vụ cùng một Alchemist khác không??"
+
+#: extensions/faq.py:66
+msgid "TASKS_FIELD4_VALUE"
+msgstr ""
+"Chắc chắn! (Hầu như) Mọi nhiệm vụ được nêu ra đều có thể được hoàn thành bằng cách hợp tác với nhau."
+"Do đó, không có nhiệm vụ nhóm hoặc nhiệm vụ riêng lẻ nào."
+"Cách bạn giải quyết và hoàn thành mỗi nhiệm vụ hoàn toàn tùy thuộc vào bạn"
+"thông thường / lý do - một số nhiệm vụ nhỏ hơn, đơn giản hơn có thể không hợp lý "
+"khi chia thành các nhiệm vụ phụ.\n"
+"Nếu bạn muốn hoàn thành một nhiệm vụ với các Alchemist khác, chúng tôi đặc biệt khuyến khích "
+"bạn trao đổi mong muốn này với nhóm."
+
+#: extensions/faq.py:67
+msgid "TASKS_FIELD5_NAME"
+msgstr "Phần thưởng được phân phối như thế nào cho công việc nhóm?"
+
+#: extensions/faq.py:67
+msgid "TASKS_FIELD5_VALUE"
+msgstr ""
+"Theo mặc định, phần thưởng cho các nhiệm vụ nhóm sẽ được chia theo số lượng "
+"tham gia vào nhiệm vụ. Ví dụ, 3 Alchemist đang thực hiện một nhiệm vụ nhóm "
+"trị giá 5.000🧪. Phần thưởng mà mỗi cá nhân sẽ nhận được trong trường hợp "
+"này sẽ là 1.666 🧪s (5000/3) .\n"
+"Tuy nhiên, nếu nhóm không muốn chia đều giải thưởng "
+"**bằng nhau,**vui lòng thông báo điều này với Hội đồng. Hội đồng sẽ chỉ "
+"cho phép điều này nếu cả nhóm **theo số đông** đã đồng ý về cách phân phối giải thưởng "
+"phối giải thưởng."
+
+#: extensions/faq.py:68
+msgid "TASKS_FIELD6_NAME"
+msgstr ""
+"Một Alchemist khác đang làm việc / hoàn thành một nhiệm vụ cụ thể. Tôi vẫn"
+"có thể tiếp tục với nhiệm vụ đó chứ?"
+
+#: extensions/faq.py:68
+msgid "TASKS_FIELD6_VALUE"
+msgstr ""
+"Chắc chắn rồi. Tuy nhiên, chúng tôi khuyến khích tính cá nhân trong bài viết của bạn. Chỉ "
+"trích dẫn tác phẩm của Alchemist khác cũng ** không được phép **.\n"
+"Hơn nữa, nơi không được phép trùng lặp các nhiệm vụ là các bản dịch "
+"và một số công việc của Tăng cường dành cho nhà phát triển. Mặc dù các hướng "
+"dẫn dành cho nhà phát triển có thể bị trùng lặp, nhưng các tác vụ  "
+"phát triển cụ thể như trang web do cộng đồng xây dựng hoặc một ứng dụng không thể bị trùng lặp."
+
+#: extensions/faq.py:69
+msgid "TASKS_FIELD7_NAME"
+msgstr ""
+"Có thể gửi sự kiện (Dungeon & Data, One Million Wallets, v.v.) khi một nhiệm vụ "
+"đã hoàn thành không?"
+
+#: extensions/faq.py:69
+msgid "TASKS_FIELD7_VALUE"
+msgstr ""
+"iệc này sẽ được xử lý theo từng trường hợp cụ thể. Nếu công việc "
+"bạn đã hoàn thành mất một khoảng thời gian đáng kể và do đó bạn không có cơ hội thực "
+"hiện các nhiệm vụ Alchemist, thì có.\n"
+"Chúng tôi khuyến khích bạn liên hệ với Hội đồng và trình bày công việc bạn đã hoàn thành "
+"cho sự kiện. Chúng tôi sẽ xem xét nó và cho bạn biết nếu nó đủ "
+"điều kiện."
+
+#: extensions/faq.py:70
+msgid "TASKS_FIELD8_NAME"
+msgstr "Tôi có thể gửi sản phẩm của mình ở đâu?"
+
+#: extensions/faq.py:70
+msgid "TASKS_FIELD8_VALUE"
+msgstr ""
+"Một liên kết Typeform sẽ được cung cấp để làm như vậy cho mỗi phần. Liên kết này "
+"sẽ được cung cấp trong thông báo thông báo mùa giải mới. Thông báo này "
+"sẽ được đăng trên kênh Covalent Alchemists #📣announcements channel."
+
+#: extensions/faq.py:77
+msgid "REWARDS_DESCRIPTION"
+msgstr "Câu hỏi thường gặp về phần thưởng"
+
+#: extensions/faq.py:77
+msgid "REWARDS_TITLE"
+msgstr "Phần thưởng"
+
+#: extensions/faq.py:79
+msgid "REWARDS_FIELD1_NAME"
+msgstr "Khi nào tôi sẽ nhận được phần thưởng Potion🧪 của mình?"
+
+#: extensions/faq.py:79
+msgid "REWARDS_FIELD1_VALUE"
+msgstr ""
+"Trước khi ra mắt mã thông báo, chúng tôi sẽ lưu giữ nhật ký về số tiền "
+"mà mỗi Alchemist đã kiếm được. Số tiền này sẽ được thanh toán chung trong kỳ thanh toán "
+"đầu tiên. Phần thưởng sẽ được phân phối vào cuối mỗi tháng "
+"(Mùa)."
+
+#: extensions/faq.py:80
+msgid "REWARDS_FIELD2_NAME"
+msgstr "Tại sao lại giới hạn về số lượng Potion🧪 tôi có thể kiếm được mỗi mùa?"
+
+#: extensions/faq.py:80
+msgid "REWARDS_FIELD2_VALUE"
+msgstr ""
+"Có một hạn mức định sẵn của Potion🧪 được xác định trước mỗi mùa. Do đó,"
+"chúng tôi phải có một mức để tránh lạm phát Potion🧪 (giới hạn "
+"nhóm cho mùa giải với một nhóm mới cho mùa tiếp theo).\n"
+"Cũng có một hạn mức riêng được đặt tương đương (ví dụ: cao hơn 20%) "
+"so với số Potion🧪 trung bình mà một Đại sứ Alchemist sẽ kiếm được"
+"trong Mùa nếu mỗi Đại sứ trong Mùa tham gia như nhau.\n"
+"Chúng tôi khuyến khích các Alchemist hoàn thành đủ nhiệm vụ "
+"để đạt đến giới hạn cá nhân này. Lưu ý, khi bạn đã đạt đến giới hạn cá nhân,"
+" bạn không thể kiếm thêm Potion🧪s cho phần đó trừ khi có một ngoại lệ từ Hội Đồng"
+"Tuy nhiên, giới hạn này sẽ được đặt lại vào đầu mỗi phần. Sau khi"
+"đạt đến giới hạn chung cho một Mùa, không có nhiệm vụ "
+"nào nữa sẽ thưởng Potion🧪s cho Đại sứ Alchemist trong Mùa đó cho đến khi"
+"Mùa tiếp theo bắt đầu. Chúng tôi không dự đoán điều này xảy ra thường xuyên hoặc có "
+"một khoảng cách đáng kể giữa các Mùa."
+
+#: extensions/faq.py:81
+msgid "REWARDS_FIELD3_NAME"
+msgstr "Một số nhiệm vụ vượt quá hạn mức tối đa. Tại sao vậy?"
+
+#: extensions/faq.py:81
+msgid "REWARDS_FIELD3_VALUE"
+msgstr ""
+"Các nhiệm vụ này được thiết kế theo cách này để khuyến khích sự cộng tác. Nhiều "
+"nhiệm vụ ở lever Master sẽ yêu cầu sự cộng tác do độ khó của."
+"chúng.\n"
+"Ví dụ: một nhiệm vụ lever Master sẽ có phần thưởng là 6.000🧪 nhưng số tiền giới hạn "
+"cho mùa 2 tuần là 3.000 🧪. Trong trường hợp này, một nhóm gồm 2 người có thể cùng "
+"hoàn thành nhiệm vụ này và được thưởng 3.000 🧪 cho mỗi người.\n"
+"Ngoài ra, đối với một số nhiệm vụ lever Master nhất định, Hội đồng có "
+"thể miễn giới hạn cá nhân (nếu hiệu quả, hạn mức 1 tháng có thể đạt
+"6,000 🧪s)."
+
+#: extensions/faq.py:82
+msgid "REWARDS_FIELD4_NAME"
+msgstr "Tôi có thể theo dõi phần thưởng Potions🧪 của mình ở đâu?"
+
+#: extensions/faq.py:82
+msgid "REWARDS_FIELD4_VALUE"
+msgstr ""
+"Hai bảng tính sẽ được lưu trong hồ sơ. Có một nhật ký nội bộ mà chỉ nhóm Covalent "
+"trực tiếp mới có quyền truy cập. Trong khi đó, có một tài liệu bên ngoài, "
+"còn được gọi là Covalent Alchemist Leaderboard.\n"
+"Bảng tính này sẽ được cập nhật định kỳ trong mỗi thời gian thanh toán.\n"
+"Bảng điều khiển  và Covalent Alchemists Leaderboard sắp ra mắt!"
+
+#: extensions/faq.py:83
+msgid "REWARDS_FIELD5_NAME"
+msgstr "Nếu tôi muốn thay đổi địa chỉ ví của mình thì sao?"
+
+#: extensions/faq.py:83
+msgid "REWARDS_FIELD5_VALUE"
+msgstr "Vui lòng liên hệ với Hội đồng và thay đổi này có thể được thực hiện."
+
+#: extensions/faq.py:90
+msgid "NAVIGATION_TITLE"
+msgstr "Điều hướng Covalent Discord"
+
+#: extensions/faq.py:90
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr "Hướng dẫn điều hướng trên máy chủ"
+
+#: extensions/faq.py:92
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr "Các kênh chính"
+
+#: extensions/faq.py:92
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#💬general - thảo luận chung về dự án bằng tiếng Anh\n"
+"#📆events - danh sách các sự kiện quan trọng"
+
+#: extensions/faq.py:93
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr "Nội dung trò chuyện"
+
+#: extensions/faq.py:93
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+"#🐸memes - gửi meme của bạn ở đây, chỉ những meme chất lượng cao\n"
+"#🐶pets - thú cưng\n"
+"#🍕foodies - thức ăn và hơn thế"
+
+#: extensions/faq.py:102
+msgid "Tin nhắn được ghim"
+msgstr "Tin nhắn được ghim"
